@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\metotover\bin\Debug\net6.0\metotover.exe
+C:\Users\Burak\Documents\GitHub\metotover\bin\Debug\net6.0\metotover.deps.json
+C:\Users\Burak\Documents\GitHub\metotover\bin\Debug\net6.0\metotover.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\metotover\bin\Debug\net6.0\metotover.dll
+C:\Users\Burak\Documents\GitHub\metotover\bin\Debug\net6.0\metotover.pdb
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\metotover.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\metotover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\metotover.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\metotover.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\metotover.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\metotover.dll
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\refint\metotover.dll
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\metotover.pdb
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\metotover.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\metotover\obj\Debug\net6.0\ref\metotover.dll
